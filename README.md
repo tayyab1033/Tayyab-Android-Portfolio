@@ -5,7 +5,9 @@
 <a href="mailto:tayyab1033@gmail.com"><img src="https://img.shields.io/badge/Email-tayyab-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tayyab-ashraf/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Tayyab-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 
 
-# Clara World - Android
+# <p align="center">
+<img src="https://play-lh.googleusercontent.com/PVKWvp-ELYF25i6YYWHqaRDkuOAwMSgdDUObrXOZc-fFahPoI9e7iU2_iqo5G8rlrSY=w240-h480-rw" width="250" height = "250"  title="Clara world">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> Clara World - Android
 I am curretnly working on the super application - project for the android. I am providing assistant to the existing features as well developing new features in the applications.
 
 # Decathlon Application
