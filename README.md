@@ -8,14 +8,8 @@
 # <img src="https://play-lh.googleusercontent.com/PVKWvp-ELYF25i6YYWHqaRDkuOAwMSgdDUObrXOZc-fFahPoI9e7iU2_iqo5G8rlrSY=w240-h480-rw" width="50" height = "50"  title="Clara world">&nbsp;Clara World - Android
 I am curretnly working on the super application - project for the android. I am providing assistance to the existing features as well developing new features in the applications.
 
-# Decathlon Application
-
-Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
-Choose from an array of gear and equipment that's designed to get you play-ready.
-
-<a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-
+# <img src="https://play-lh.googleusercontent.com/sAIGEHxSoOOh5LoHQKWBooI7etTMWKr3JarLPwDRt6Sd9pfSD297FPTLEtcAlEUccJE=w240-h480-rw" width="50" height = "50"  title="Clara world">&nbsp;Clara World Driver - Android
+Application connected to Clara World for driver side. Driver can receive updates and customer rides on this application. My role in this application is to provide assistance in current features.
 
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, RxJava, Android Jetpack Libraries.
 
