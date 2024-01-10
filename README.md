@@ -5,10 +5,10 @@
 <a href="mailto:tayyab1033@gmail.com"><img src="https://img.shields.io/badge/Email-tayyab-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tayyab-ashraf/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Tayyab-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 
 
-# <img src="https://play-lh.googleusercontent.com/PVKWvp-ELYF25i6YYWHqaRDkuOAwMSgdDUObrXOZc-fFahPoI9e7iU2_iqo5G8rlrSY=w240-h480-rw" width="50" height = "50"  title="Clara world">&nbsp;Clara World - Android
+# <img src="https://play-lh.googleusercontent.com/PVKWvp-ELYF25i6YYWHqaRDkuOAwMSgdDUObrXOZc-fFahPoI9e7iU2_iqo5G8rlrSY=w240-h480-rw" width="50" height = "50"  title="Gort">&nbsp;Gort - Android
 I am curretnly working on the super application - project for the android. I am providing assistance to the existing features as well developing new features in the applications.
 
-# <img src="https://play-lh.googleusercontent.com/sAIGEHxSoOOh5LoHQKWBooI7etTMWKr3JarLPwDRt6Sd9pfSD297FPTLEtcAlEUccJE=w240-h480-rw" width="50" height = "50"  title="Clara world">&nbsp;Clara World Driver - Android
+# <img src="https://play-lh.googleusercontent.com/sAIGEHxSoOOh5LoHQKWBooI7etTMWKr3JarLPwDRt6Sd9pfSD297FPTLEtcAlEUccJE=w240-h480-rw" width="50" height = "50"  title="Gort">&nbsp;Gort Driver - Android
 Application connected to Clara World for driver side. Driver can receive updates and customer rides on this application. My role in this application is to provide assistance in current features.
 
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, RxJava, Android Jetpack Libraries.
